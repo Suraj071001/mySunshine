@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_message">
+        An error has occurred. Please try again by clicking REFRESH
+    </string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="UNIQUE">UNIQUE(</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="units_entries">
+        <item>@string/fahrenheit</item>
+        <item>@string/celsius</item>
+    </array>
+    <array name="units_value">
+        <item>@string/fahrenheit</item>
+        <item>@string/celsius</item>
+    </array>
+</resources>
